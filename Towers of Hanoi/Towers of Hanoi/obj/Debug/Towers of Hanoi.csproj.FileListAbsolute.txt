@@ -1,0 +1,9 @@
+C:\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.MainForm.resources
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb

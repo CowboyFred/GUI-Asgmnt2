@@ -1,0 +1,36 @@
+C:\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.MainForm.resources
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
+C:\temp\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\temp\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\temp\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
+C:\temp\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\temp\Towers of Hanoi\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\temp\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+C:\temp\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.MainForm.resources
+C:\temp\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+C:\temp\Towers of Hanoi\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.MainForm.resources
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\UNITEC\GUI Prog\Towers of Hanoi Starter\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe.config
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\bin\Debug\Towers of Hanoi.exe
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\bin\Debug\Towers of Hanoi.pdb
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\obj\Debug\Towers of Hanoi.csprojResolveAssemblyReference.cache
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.MainForm.resources
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\obj\Debug\Towers_of_Hanoi.Properties.Resources.resources
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\obj\Debug\Towers of Hanoi.csproj.GenerateResource.Cache
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\obj\Debug\Towers of Hanoi.exe
+C:\UNITEC\GUI Prog\Towers of Hanoi by Denis Eltcov ID\Towers of Hanoi\obj\Debug\Towers of Hanoi.pdb
